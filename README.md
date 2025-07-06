@@ -1,0 +1,1 @@
+The datasets used for the Heterogeneous Multi-Compartment Vehicle Routing Problem with Time Windows and Splittable Demand (HMCVRPTW-SD) include both adapted Solomon benchmark instances and a real-world case from JD.com, featuring 10 to 50 customers under two cold-chain demand scenarios.
